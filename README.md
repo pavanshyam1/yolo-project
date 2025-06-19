@@ -17,8 +17,10 @@ Model: YOLOv4, YOLOv5, YOLOv7, or YOLOv8 (depending on your project goals)
 2.Model Training:
 
     Select a YOLO version (YOLOv5 is widely used and user-friendly)
-    Configure model (number of classes, input size, epochs, etc.)
-    Train on custom or public dataset
+  
+     Configure model (number of classes, input size, epochs, etc.)
+     
+     Train on custom or public dataset
 
 3.Model Evaluation:
 
