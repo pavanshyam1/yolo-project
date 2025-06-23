@@ -1,4 +1,4 @@
-# yolo-project
+# OBJECT DETECTION USING YOLO
 🎯 Objective:
 To develop a system capable of detecting and classifying multiple objects in real-time using the YOLO (You Only Look Once) deep learning algorithm.
 
